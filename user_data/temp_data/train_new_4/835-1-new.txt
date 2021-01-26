@@ -1,0 +1,12 @@
+偶 O
+见 O
+恶 B-SYMPTOM
+心 I-SYMPTOM
+、 O
+呃 B-SYMPTOM
+逆 I-SYMPTOM
+、 O
+腹 B-SYMPTOM
+痛 I-SYMPTOM
+。 O
+END O

@@ -1,0 +1,17 @@
+本 O
+品 O
+为 O
+棕 O
+黄 O
+色 O
+水 B-DRUG_DOSAGE
+丸 I-DRUG_DOSAGE
+， O
+味 B-DRUG_TASTE
+苦 I-DRUG_TASTE
+， O
+微 B-DRUG_TASTE
+酸 I-DRUG_TASTE
+， O
+涩 B-DRUG_TASTE
+END O
