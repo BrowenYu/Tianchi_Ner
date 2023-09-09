@@ -98,3 +98,7 @@ NER论文：
 		Adversarial Demonstration Attacks on Large Language Models
 		Multi-span Style Extraction for Generative Reading Comprehension
 		Large Language Models Are Implicitly Topic Models:Explaining and Finding Good Demonstrations for In-Context Learning
+
+		Unified Language Model Pre-training for Natural Language Understanding and Generation
+		Multi-Task Learning with Generative Adversarial Training for Multi-Passage Machine Reading Comprehension
+		Lite Unified Modeling for Discriminative Reading Comprehension
