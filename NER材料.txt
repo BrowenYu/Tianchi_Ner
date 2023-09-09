@@ -84,3 +84,17 @@ NER论文：
 数据增强：
 		Synthetic Question Value Estimation for Domain Adaptation of Question Answering
 		Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data
+
+
+2023论文集合：
+		ListReader: Extracting List-form Answer for Opinion Questions
+		MultiSpanQA: A Dataset for Multi-Span Question Answering
+		Generating Long Sequences with Sparse Transformers
+		Enhancing In-Context Learning with Answer Feedback for Multi-Span Question Answering
+		ThinkTwice: A Two-Stage Method for Long-Text Machine Reading Comprehension
+		Question Answering with Long Multiple-Span Answers
+		Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension
+		Universal and Transferable Adversarial Attacks on Aligned Language Models
+		Adversarial Demonstration Attacks on Large Language Models
+		Multi-span Style Extraction for Generative Reading Comprehension
+		Large Language Models Are Implicitly Topic Models:Explaining and Finding Good Demonstrations for In-Context Learning
